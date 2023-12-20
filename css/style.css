@@ -1,0 +1,43 @@
+/* google fonts
+----------++---------- */
+
+/* css variables to reuse same color 
+----------++---------- */
+:root {
+  --clr-primary: #2c541d;
+  --clr-secondary: #74a84a;
+
+  --clr-white: #fefefe;
+  --clr-black: #000000;
+}
+
+::selection {
+  background-color: #74a84a;
+  color: #000000;
+}
+
+/* base style 
+----------++---------- */
+
+/* reused styles 
+----------++---------- */
+
+/* header section style 
+----------++----------  */
+
+/* adding internal media queries so that it will be easier to understand for you :) */
+
+/* hero section style 
+----------++---------- */
+
+/* services section style 
+----------++---------- */
+
+/* about us section style 
+----------++---------- */
+
+/* contact us section style 
+----------++---------- */
+
+/* footer style 
+----------++---------- */
